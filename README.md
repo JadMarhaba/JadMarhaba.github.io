@@ -12,7 +12,7 @@
 - High School Diploma, Bridgewater Raritan High School Class of 2020
   - Achieved High Honor Roll
   - Weighted GPA: 4.3
--Past coursework includes: 
+- Past coursework includes: 
   - AP US History, Honors World Civilizations, Honors Chemistry, Honors Algebra II, English, Geometry, Biology, Spanish II & III
 - Future coursework:
   - Junior: AP Physics, AP Calculus AB, AP US History II, Honors Spanish IIII, English III
