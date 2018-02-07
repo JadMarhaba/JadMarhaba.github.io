@@ -1,4 +1,4 @@
-## Structure
+## Syrian Refugee Arrivals
 [home](https://jadmarhaba.github.io/)
 
 1. Introduction
