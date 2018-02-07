@@ -1,6 +1,8 @@
 # Jad Marhaba
-950 Sussex Avenue </br>
-Bridgewater, NJ 08807 </br>
+950 Sussex Avenue
+
+Bridgewater, NJ 08807
+
 [jtmarhaba@gmail.com](mailto:jtmarhaba@gmail.com)
 
 ## Summary:
