@@ -9,6 +9,7 @@
   - Which statistic did you choose when two conflicted, and why?
 
 3. Data
+
 NEW JERSEY:
 
 Location:|CY 2014 | CY 2015 | CY 2016 | CY 2017 | Totals
