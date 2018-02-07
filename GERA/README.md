@@ -10,7 +10,7 @@
 
 3. Data
 
-NEW JERSEY:
+**NEW JERSEY:**
 
 Location:|CY 2014 | CY 2015 | CY 2016 | CY 2017 | Totals
 -------- | ------ | ------- | ------- | ------- | -------
