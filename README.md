@@ -3,11 +3,11 @@
 Bridgewater, NJ 08807
 jtmarhaba@gmail.com
 
-##Summary:
+## Summary:
 - A student interested in sustainable development and problem-solving.
 - A dedicated worker looking to serve a research internship with the intention of developing long-term skills and interests.
 
-##Education: 
+## Education: 
 - High School Diploma, Bridgewater Raritan High School Class of 2020
   - Achieved High Honor Roll
   - Weighted GPA: 4.3
@@ -19,7 +19,7 @@ jtmarhaba@gmail.com
 - Electives: 
   - Introduction to Business, International Business, Digital Fine Arts, Computer Applications, CAD (computer aided design), Intro to Computer Science
 
-##Experience: 
+## Experience: 
 - Volunteer with GERA (an organization through which I tutored Syrian refugee children)
 - Help fundraise for PBTC (Project Break The Cycle is a charity I helped found that helps support Lebanese orphans)
 - Study Arabic formally (from an early age)
@@ -28,5 +28,5 @@ jtmarhaba@gmail.com
 - Play for three soccer clubs over the last eleven years
 - Run track for BRHS every spring
 
-##Skills: 
+## Skills: 
 - Arabic fluency, CAD competency, Knowledge of markets and economic principles, Java competency (programming language)
