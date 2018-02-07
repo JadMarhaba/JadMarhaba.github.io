@@ -1,4 +1,3 @@
-# Jad Marhaba
 950 Sussex Avenue
 
 Bridgewater, NJ 08807
