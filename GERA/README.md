@@ -1,4 +1,6 @@
 ## Syrian Refugee Arrivals
+**CONTACT:** [jtmarhaba@gmail.com](mailto:jtmarhaba@gmail.com)
+
 **NAVIGATION:** [HOME](https://jadmarhaba.github.io/) - [PBTC](http://www.projectbreakthecycle.com)
 
 1. Introduction
