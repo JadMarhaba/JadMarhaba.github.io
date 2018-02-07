@@ -1,4 +1,4 @@
-# Structure
+## Structure
 [home](https://jadmarhaba.github.io/)
 
 1. Introduction
