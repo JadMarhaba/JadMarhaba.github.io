@@ -1,7 +1,7 @@
 # Jad Marhaba
-950 Sussex Avenue
-Bridgewater, NJ 08807
-jtmarhaba@gmail.com
+950 Sussex Avenue </br>
+Bridgewater, NJ 08807 </br>
+[jtmarhaba@gmail.com](mailto:jtmarhaba@gmail.com)
 
 ## Summary:
 - A student interested in sustainable development and problem-solving.
