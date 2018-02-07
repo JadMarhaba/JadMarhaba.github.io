@@ -1,5 +1,5 @@
 ## Syrian Refugee Arrivals
-**NAVIGATION:** [HOME](https://jadmarhaba.github.io/) - [PBTC](https://www.projectbreakthecycle.com)
+**NAVIGATION:** [HOME](https://jadmarhaba.github.io/) - [PBTC](http://www.projectbreakthecycle.com)
 
 1. Introduction
   - Brief description of the issue, and overview of historic migration patterns
