@@ -1,4 +1,6 @@
-**CONTACT:** 950 Sussex Avenue, Bridgewater, NJ 08807 [jtmarhaba@gmail.com](mailto:jtmarhaba@gmail.com)
+**MAIL:** 950 Sussex Avenue, Bridgewater, NJ 08807 
+
+**E-MAIL:** [jtmarhaba@gmail.com](mailto:jtmarhaba@gmail.com)
 
 **NAVIGATION:** [GERA](https://jadmarhaba.github.io/GERA/)
 
