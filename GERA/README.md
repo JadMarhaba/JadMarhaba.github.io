@@ -1,5 +1,5 @@
 ## Syrian Refugee Arrivals
-[home](https://jadmarhaba.github.io/)
+[HOME](https://jadmarhaba.github.io/)
 
 1. Introduction
   - Brief description of the issue, and overview of historic migration patterns
