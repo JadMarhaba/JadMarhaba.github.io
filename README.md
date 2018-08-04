@@ -13,10 +13,10 @@
 - Past coursework includes: 
   - AP US History, Honors World Civilizations, Honors Chemistry, Honors Algebra II, English, Geometry, Biology, Spanish II & III
 - Future coursework:
-  - Junior: AP Physics, AP Calculus AB, AP US History II, Honors Spanish IIII, English III
-  - Senior: AP Spanish, AP Science, AP Calculus BC, European History, English IV. 
+  - Junior: AP Chemistry, AP US History II, Honors Spanish IV, English III, Honors Precalculus
+  - Senior: AP Spanish, AP Biology, AP Calculus BC, European History, English IV. 
 - Electives: 
-  - Introduction to Business, International Business, Digital Fine Arts, Computer Applications, CAD (computer aided design), Intro to Computer Science
+  - Business, International Business, Digital Fine Arts, Computer Applications, CAD, Computer Science
 
 ## Experience: 
 - Volunteer with GERA (an organization through which I tutored Syrian refugee children)
